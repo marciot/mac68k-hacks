@@ -1,0 +1,10 @@
+li a {
+    background: rgba(255,255,0,0.25);
+    font-weight: bold;
+    padding: 2px;
+}
+
+header img {
+    width: 64px;
+    height: 64px;
+}
