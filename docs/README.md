@@ -14,10 +14,10 @@ Interesting resources I have found on the web:
 
 * [Thomas Tempelmann]'s Macintosh developer site.
 * [Joshua Stein]'s Macintosh programming site
-* [Apple Developer Resources Mirror]: Tons of resources formerly available via the Apple FTP site
-* [CDEV Framework for Code Warrior]: A few CDEV projects with very good documentation
-* [Mirror of UMICH resources]: A mirror of UMICH resources [UMICH mirror 1], [UMICH mirror 2] and [UMICH mirror 3]
-  * [UMICH mirror 1] - This is the link via the Internet Archive's Wayback Machine. Consider clicking the "Save this URL" button for any things you find interesting and that the Internet Archive has not captured.
+* [Apple Developer Resources Mirror] Tons of resources formerly available via the Apple FTP site
+* [CDEV Framework for Code Warrior] A few CDEV projects with very good documentation
+* __Mirror of UMICH resources__: An archive of many Macintosh things, including development sources
+  * [UMICH mirror 1] - Mirror via the Internet Archive's Wayback Machine (consider clicking the "Save this URL" button for interesting things that the Internet Archive has not yet captured).
   * [UMICH mirror 2] and [UMICH mirror 3]
   
 
