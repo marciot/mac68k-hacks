@@ -17,9 +17,14 @@ Interesting resources I have found on the web:
 * [Apple Developer Resources Mirror] Tons of resources formerly available via the Apple FTP site
 * [CDEV Framework for Code Warrior] A few CDEV projects with very good documentation
 * __Mirror of UMICH resources__: An archive of many Macintosh things, including development sources
-  * [UMICH mirror 1] - Mirror via the Internet Archive's Wayback Machine (consider clicking the "Save this URL" button for interesting things that the Internet Archive has not yet captured).
-  * [UMICH mirror 2] and [UMICH mirror 3]
-  
+  * [web.archive.org](https://web.archive.org/web/20211029121738/http://websites.umich.edu/~archive/mac)
+     * For links which are not available, please consider clicking the "Save this url in the Wayback Machine"
+  * [ftp.icm.edu.pl](http://ftp.icm.edu.pl/packages/umich/)
+  * [gopher.floodgap.com](https://phroxy.net/gopher://gopher.floodgap.com/1/archive/umich-archive-mac)
+* __Develop Magazine__: Contents of the Develop magazine
+  * [vintageapple.org](https://vintageapple.org/develop)
+  * [preserve.mactech.com](http://preserve.mactech.com/articles/develop/index.html)
+  * [CD-ROM](https://archive.org/details/MacTechVol112)
 
 [Trouble in Paradise]: https://github.com/marciot/mac-tip
 [ScreenChooser]: https://archive.org/details/screen-chooser
@@ -28,6 +33,3 @@ Interesting resources I have found on the web:
 [Joshua Stein]: https://jcs.org/
 [Apple Developer Resources Mirror]: https://staticky.com/mirrors/ftp.apple.com/developer/
 [CDEV Framework for Code Warrior]: https://www.applefritter.com/node/13008
-[UMICH mirror 3]: http://ftp.icm.edu.pl/packages/umich/
-[UMICH mirror 2]: https://phroxy.net/gopher://gopher.floodgap.com/1/archive/umich-archive-mac
-[UMICH mirror 1]: https://web.archive.org/web/20211029121738/http://websites.umich.edu/~archive/mac/
