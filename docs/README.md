@@ -10,7 +10,7 @@ Here are some of my Macintosh projects:
 Resources
 =========
 
-Interesting resources I have found on the web:
+Interesting development resources I have found on the web:
 
 * [Thomas Tempelmann]'s Macintosh developer site.
 * [Joshua Stein]'s Macintosh programming site
@@ -25,6 +25,7 @@ Interesting resources I have found on the web:
   * [vintageapple.org](https://vintageapple.org/develop)
   * [preserve.mactech.com](http://preserve.mactech.com/articles/develop/index.html)
   * [CD-ROM](https://archive.org/details/MacTechVol112)
+* [Assembly Language Tricks and Traps] : Information of writing assembly code for the 68000
 
 [Trouble in Paradise]: https://github.com/marciot/mac-tip
 [ScreenChooser]: https://archive.org/details/screen-chooser
@@ -33,3 +34,4 @@ Interesting resources I have found on the web:
 [Joshua Stein]: https://jcs.org/
 [Apple Developer Resources Mirror]: https://staticky.com/mirrors/ftp.apple.com/developer/
 [CDEV Framework for Code Warrior]: https://www.applefritter.com/node/13008
+[Assembly Language Tricks and Traps]: http://www.easy68k.com/paulrsm/doc/trick68k.htm
