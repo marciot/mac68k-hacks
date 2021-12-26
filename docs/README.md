@@ -25,6 +25,12 @@ Interesting resources I have found on the web:
   * [vintageapple.org](https://vintageapple.org/develop)
   * [preserve.mactech.com](http://preserve.mactech.com/articles/develop/index.html)
   * [CD-ROM](https://archive.org/details/MacTechVol112)
+* __Classic Mac Programs with Source Code__:
+  * [ChromiVNC] An Open-Transport based VNC server for Macs. Includes source code, illustrating things like patching traps and posting keyboard and mouse events. 
+* [Macintosh Almanac] http://www.mac.linux-m68k.org/devel/macalmanac.php
+* [Macintosh Plus Info] http://www.mac.linux-m68k.org/devel/plushw.php
+* __Assembly Language__
+  * https://macgui.com/news/article.php?t=483
 
 [Trouble in Paradise]: https://github.com/marciot/mac-tip
 [ScreenChooser]: https://archive.org/details/screen-chooser
@@ -33,3 +39,4 @@ Interesting resources I have found on the web:
 [Joshua Stein]: https://jcs.org/
 [Apple Developer Resources Mirror]: https://staticky.com/mirrors/ftp.apple.com/developer/
 [CDEV Framework for Code Warrior]: https://www.applefritter.com/node/13008
+[ChromiVNC]: https://web.archive.org/web/20070209043056/http://www.chromatix.uklinux.net/vnc/
