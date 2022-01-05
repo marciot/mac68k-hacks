@@ -16,14 +16,14 @@ Interesting development resources I have found on the web:
   * [Mac 512k Blog] A very comprehensive and well written blog on the the Macintosh 512k, including posts on a variety of information and in-depth articles on assembly language programming.
   * [Joshua Stein]'s blog, which includes a fantastic series of videos on System 6 software development.
 * __Reference Materials__
-  * [Macintosh Almanac] http://www.mac.linux-m68k.org/devel/macalmanac.php
-  * [Macintosh Plus Hardware Info] http://www.mac.linux-m68k.org/devel/plushw.php
+  * [Macintosh Almanac]
+  * [Macintosh Plus Hardware Info]
   * [Assembly Language Tricks and Traps] Information of writing assembly code for the 68000
 * __Apple Technical Notes Archives___
-  * [Apple Technical Notes Archive] https://mirror.informatimago.com/next/developer.apple.com/technotes/
-  * [Technical Notes Stack 4.0.5] https://spinsidemacintosh.neocities.org/tn405.html
+  * [Apple Technical Notes Archive]
+  * [Technical Notes Stack 4.0.5]
   * __Selected Topics__
-    * Cursor Control: http://mirror.informatimago.com/next/developer.apple.com/technotes/qd/qd_505.html
+    * [Cursor Control]
 * [Apple Developer Resources Mirror] Tons of resources formerly available via the Apple FTP site
 * __Mirror of UMICH resources__: An archive of many Macintosh things, including development sources
   * [web.archive.org](https://web.archive.org/web/20211029121738/http://websites.umich.edu/~archive/mac)
@@ -57,3 +57,8 @@ Interesting development resources I have found on the web:
 [Mac 68000 Assembly Tutorial]: https://macgui.com/news/article.php?t=483
 [Mac 512k Blog]: https://macgui.com/news/showcat.php?id=8
 [PCE Emulator]: http://www.hampa.ch/pce/
+[Macintosh Almanac]: http://www.mac.linux-m68k.org/devel/macalmanac.php
+[Macintosh Plus Hardware Info]: http://www.mac.linux-m68k.org/devel/plushw.php
+[Apple Technical Notes Archive]: https://mirror.informatimago.com/next/developer.apple.com/technotes
+[Technical Notes Stack 4.0.5]: https://spinsidemacintosh.neocities.org/tn405.html
+[Cursor Control]: http://mirror.informatimago.com/next/developer.apple.com/technotes/qd/qd_505.html
