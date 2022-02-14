@@ -15,6 +15,7 @@ Interesting development resources I have found on the web:
 * __Vintage Macintosh Programming Pages__
   * [Mac 512k Blog] A very comprehensive and well written blog on the the Macintosh 512k, including posts on a variety of information and in-depth articles on assembly language programming.
   * [Joshua Stein]'s blog, which includes a fantastic series of videos on System 6 software development.
+  * [MacFlim] an amazing video player for classic Macs!
   * [Marchintosh], a whole month of Macintosh retrocomputing projects!
 * __Reference Materials__
   * [Macintosh Almanac]
@@ -76,3 +77,4 @@ Interesting development resources I have found on the web:
 [Recommend Developer Publications]: http://www.quinn.echidna.id.au/Quinn/WWW/RecommendedDTS.html
 [68020 Cache Control]: https://acorn.huininga.nl/pub/projects/CiscOS/_backgroundinfo/Datasheets/Cache%20programming.txt
 [Marchintosh]: https://www.marchintosh.com/
+[MacFlim]: http://www.macflim.com/
