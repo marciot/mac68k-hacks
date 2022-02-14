@@ -19,7 +19,7 @@ Interesting development resources I have found on the web:
 * __Reference Materials__
   * [Macintosh Almanac]
   * [Macintosh Plus Hardware Info]
-* __Assembly Language Programming
+* __Assembly Language Programming__
   * [Assembly Language Tricks and Traps] Information of writing assembly code for the 68000
   * [Dissassembled Mac Plus ROM]
   * [68020 Cache Control]
@@ -73,6 +73,6 @@ Interesting development resources I have found on the web:
 [Interrupts in need of (a Good) Time]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1033.html
 [The Monster Disk Driver Tech Note]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1189.html
 [Dissassembled Mac Plus ROM]: https://www.bigmessowires.com/rom-adapter/plus-rom-listing.asm
-[Recommend Developer Publications}: http://www.quinn.echidna.id.au/Quinn/WWW/RecommendedDTS.html
+[Recommend Developer Publications]: http://www.quinn.echidna.id.au/Quinn/WWW/RecommendedDTS.html
 [68020 Cache Control]: https://acorn.huininga.nl/pub/projects/CiscOS/_backgroundinfo/Datasheets/Cache%20programming.txt
 [Marchintosh]: https://www.marchintosh.com/
