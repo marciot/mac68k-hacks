@@ -12,19 +12,23 @@ Resources
 
 Interesting development resources I have found on the web:
 
-* __Vintage Macintosh Programming Blogs__
+* __Vintage Macintosh Programming Pages__
   * [Mac 512k Blog] A very comprehensive and well written blog on the the Macintosh 512k, including posts on a variety of information and in-depth articles on assembly language programming.
   * [Joshua Stein]'s blog, which includes a fantastic series of videos on System 6 software development.
+  * [Marchintosh], a whole month of Macintosh retrocomputing projects!
 * __Reference Materials__
   * [Macintosh Almanac]
   * [Macintosh Plus Hardware Info]
+* __Assembly Language Programming
   * [Assembly Language Tricks and Traps] Information of writing assembly code for the 68000
   * [Dissassembled Mac Plus ROM]
+  * [68020 Cache Control]
 * __Apple Technical Notes Archives___
   * [Apple Technical Notes Archive]
   * [Technical Notes Stack 4.0.5]
+  * [Recommend Developer Publications]
   * __Selected Topics__
-    * [Cursor Control], [Interrupts]
+    * [Cursor Control], [Disabling Interrupts], [Interrupt Safe Routines], [Writing a SCSI Driver], [Interrupts in need of (a Good) Time], [The Monster Disk Driver Tech Note]
 * [Apple Developer Resources Mirror] Tons of resources formerly available via the Apple FTP site
 * __Mirror of UMICH resources__: An archive of many Macintosh things, including development sources
   * [web.archive.org](https://web.archive.org/web/20211029121738/http://websites.umich.edu/~archive/mac)
@@ -63,5 +67,12 @@ Interesting development resources I have found on the web:
 [Apple Technical Notes Archive]: https://mirror.informatimago.com/next/developer.apple.com/technotes
 [Technical Notes Stack 4.0.5]: https://spinsidemacintosh.neocities.org/tn405.html
 [Cursor Control]: http://mirror.informatimago.com/next/developer.apple.com/technotes/qd/qd_505.html
-[Interrupts]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1137.html
+[Disabling Interrupts]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1137.html
+[Interrupt Safe Routines]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1104.html
+[Writing a SCSI Driver]: http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/Devices/Devices-154.html
+[Interrupts in need of (a Good) Time]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1033.html
+[The Monster Disk Driver Tech Note]: http://mirror.informatimago.com/next/developer.apple.com/technotes/tn/tn1189.html
 [Dissassembled Mac Plus ROM]: https://www.bigmessowires.com/rom-adapter/plus-rom-listing.asm
+[Recommend Developer Publications}: http://www.quinn.echidna.id.au/Quinn/WWW/RecommendedDTS.html
+[68020 Cache Control]: https://acorn.huininga.nl/pub/projects/CiscOS/_backgroundinfo/Datasheets/Cache%20programming.txt
+[Marchintosh]: https://www.marchintosh.com/
