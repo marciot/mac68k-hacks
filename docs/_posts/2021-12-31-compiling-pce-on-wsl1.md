@@ -23,6 +23,7 @@ mkdir PCE-build
 
 export SDL_PREFIX=`cd pce/lib-sdl/;pwd`
 export PCE_PREFIX=`cd PCE-build/;pwd`
+export PATH="$PATH:$SDL_PREFIX/bin"
 
 cd SDL-build
 ../SDL/configure --disable-libc --host=i686-w64-mingw32 --prefix=$SDL_PREFIX
@@ -31,9 +32,10 @@ make install
 
 git clone git://git.hampa.ch/pce.git
 cd pce
-export CFLAGS="-I$SDL_PREFIX/include/SDL2"
-export LDFLAGS="-L$SDL_PREFIX/lib"
-export LIBS="-lmingw32  -static-libgcc -lSDL2 -lSDL2main"
+#export LDFLAGS="-L$SDL_PREFIX/lib "
+#export PCE_SDL_CFLAGS="-I$SDL_PREFIX/include/SDL2"
+#export PCE_SDL_LIBS="-lmingw32-lSDL2 -lSDL2main"
+
 ./configure --with-sdl=2 --disable-atari-st --disable-cpm80 --disable-ibmpc --disable-rc759 --disable-sim405  --disable-sims32 --disable-simarm  --disable-vic20 --host=i686-w64-mingw32 --prefix=$PCE_PREFIX
 make
 ```
