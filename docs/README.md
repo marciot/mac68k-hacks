@@ -89,9 +89,8 @@ Interesting development resources I have found on the web:
 [Recommend Developer Publications]: http://www.quinn.echidna.id.au/Quinn/WWW/RecommendedDTS.html
 [68020 Cache Control]: https://web.archive.org/web/20220317183044/https://acorn.huininga.nl/pub/projects/CiscOS/_backgroundinfo/Datasheets/Cache%20programming.txt
 [680x0 Cache Overview]:https://whdload.de/docs/en/cache.html
-[
 [Marchintosh]: https://www.marchintosh.com/
 [MacFlim]: http://www.macflim.com/
-[Vintage Computing Wiki]:https://wiki.preterhuman.net/Category:Apple
-[Efficient 68000 Programming]:http://preserve.mactech.com/articles/mactech/Vol.08/08.02/Efficient68000/index.html
-[Motorola 68030 microprocessor family]:https://www.cpu-world.com/CPUs/68030/index.html
+[Vintage Computing Wiki]: https://wiki.preterhuman.net/Category:Apple
+[Efficient 68000 Programming]: http://preserve.mactech.com/articles/mactech/Vol.08/08.02/Efficient68000/index.html
+[Motorola 68030 microprocessor family]: https://www.cpu-world.com/CPUs/68030/index.html
