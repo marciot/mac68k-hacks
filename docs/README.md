@@ -21,6 +21,8 @@ Interesting development resources I have found on the web:
   * [Macintosh Almanac]
   * [Macintosh Plus Hardware Info]
   * [Vintage Computing Wiki]]
+* __General Programming Tricks__
+  * [Bit Twiddling Hacks]
 * __Assembly Language Programming__
   * [Assembly Language Tricks and Traps] Information of writing assembly code for the 68000
   * [Efficient 68000 Programming]
@@ -47,6 +49,10 @@ Interesting development resources I have found on the web:
   * [ChromiVNC] An Open-Transport based VNC server for Macs. Includes source code, illustrating things like patching traps and posting keyboard and mouse events.
   * [Thomas Tempelmann]'s Macintosh developer site.
   * [CDEV Framework for Code Warrior] A few CDEV projects with very good documentation
+* __VNC Programs for Mac__
+  * [ChromiVNC] [ChromiVNC Wayback Machine 1] [ChromiVNC Wayback Machine 2] [ChromiVNC vncPatches64k]
+* __Guided Tour Information__
+  * [Guided Tour]
 * __My Own Macintosh Programs (with source code)__
   * [Trouble in Paradise] A Windows port of Steve Gibson's fantastic tool for checking Iomega Zip and Jaz Cartridges
   * [ScreenChooser] https://archive.org/details/screen-chooser
@@ -70,8 +76,11 @@ Interesting development resources I have found on the web:
 [Joshua Stein]: https://jcs.org/
 [Apple Developer Resources Mirror]: https://staticky.com/mirrors/ftp.apple.com/developer/
 [CDEV Framework for Code Warrior]: https://www.applefritter.com/node/13008
-[ChromiVNC]: https://web.archive.org/web/20070209043056/http://www.chromatix.uklinux.net/vnc/
-[Assembly Language Tricks and Traps]: http://www.easy68k.com/paulrsm/doc/trick68k.htm
+[ChromiVNC Wayback Machine 1]: https://web.archive.org/web/20070209043056/http://www.chromatix.uklinux.net/vnc/
+[ChromiVNC Wayback Machine 2](https://web.archive.org/web/20070208223046/http://www.chromatix.uklinux.net/vnc/index.html)
+[ChromiVNC](https://www.macintoshrepository.org/33305-chromivnc)
+[ChromiVNC vncPatches64k](https://www.macintoshrepository.org/download.php?id=35953&form=1&d=9LwUtYX8tMWxbJF8eH%2FJp57BM7xlZunlQfeOz4MB2yqa8gU%2F6L%2BDhXGGCbglE6iR8pahmj1BlETvgrD2goQ8OQ%3D%3D
+[Assembly Language Tricks and Traps]: https://web.archive.org/web/20230524150415
 [Mac 68000 Assembly Tutorial]: https://macgui.com/news/article.php?t=483
 [Mac 512k Blog]: https://macgui.com/news/showcat.php?id=8
 [PCE Emulator]: http://www.hampa.ch/pce/
@@ -94,3 +103,5 @@ Interesting development resources I have found on the web:
 [Vintage Computing Wiki]: https://wiki.preterhuman.net/Category:Apple
 [Efficient 68000 Programming]: http://preserve.mactech.com/articles/mactech/Vol.08/08.02/Efficient68000/index.html
 [Motorola 68030 microprocessor family]: https://www.cpu-world.com/CPUs/68030/index.html
+[Bit Twiddling Hacks]: https://graphics.stanford.edu/~seander/bithacks.html
+[Guided Tour](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2011/8/31_Guided_Tour_of_Macintosh.html)
