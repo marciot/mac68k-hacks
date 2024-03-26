@@ -29,6 +29,7 @@ Interesting development resources I have found on the web:
   * [Motorola 68030 microprocessor family]
   * [Dissassembled Mac Plus ROM]
   * [68020 Cache Control]
+  * [Retronik 68000 Resources](https://marc.retronik.fr/motorola/68K/68000.html)
 * __Apple Technical Notes Archives___
   * [Apple Technical Notes Archive]
   * [Technical Notes Stack 4.0.5]
@@ -60,6 +61,9 @@ Interesting development resources I have found on the web:
   * [Retroweb Vintage Computer Museum] My own JavaScript museum of vintage computers
   * [PCE Emulator] A lesser known, but well-written open source Macintosh Plus emulator
   * [Patching Apple HD Setup]: How to patch Apple HD Setup using ResEdit
+*__Type/Creator Database__
+  * [macobserver.com](https://www.macobserver.com/columns/macgadget/00/20000522.shtml)
+  * [tcdb.tripod.com](https://web.archive.org/web/20000604013815/http://tcdb.tripod.com/)
 * __Miscelaneous Things__
   * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
