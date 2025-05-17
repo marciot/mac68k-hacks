@@ -20,7 +20,8 @@ Interesting development resources I have found on the web:
 * __Reference Materials__
   * [Macintosh Almanac]
   * [Macintosh Plus Hardware Info]
-  * [Vintage Computing Wiki]]
+  * [Vintage Computing Wiki]
+  * [The Vintage Technology Digital Archive]
 * __General Programming Tricks__
   * [Bit Twiddling Hacks]
 * __Assembly Language Programming__
@@ -68,6 +69,7 @@ Interesting development resources I have found on the web:
   * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
 
+[The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
 [Atkinson Dithering]: https://beyondloom.com/blog/dither.html
 [ObraDin]: https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742
