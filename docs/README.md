@@ -19,9 +19,11 @@ Interesting development resources I have found on the web:
   * [Marchintosh], a whole month of Macintosh retrocomputing projects!
 * __Reference Materials__
   * [Macintosh Almanac]
-  * [Macintosh Plus Hardware Info]
   * [Vintage Computing Wiki]
   * [The Vintage Technology Digital Archive]
+* __Hardware Hacks__
+  * [Macintosh Plus Hardware Info]
+  * [ADB to Mac Plus Mouse Conversion](http://www.marushin-web.com/512kplus_2.html#ADBPlus) 
 * __General Programming Tricks__
   * [Bit Twiddling Hacks]
 * __Assembly Language Programming__
