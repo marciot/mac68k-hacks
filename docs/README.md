@@ -67,6 +67,11 @@ Interesting development resources I have found on the web:
 *__Type/Creator Database__
   * [macobserver.com](https://www.macobserver.com/columns/macgadget/00/20000522.shtml)
   * [tcdb.tripod.com](https://web.archive.org/web/20000604013815/http://tcdb.tripod.com/)
+* __Reverse Engineering__
+  * [AI Based Reverse Engineering of System 7](https://github.com/Kelsidavis/System7)
+  * [M.A.C.E](https://mace.home.blog/)
+* __ROM_Resources__
+  * [supermario](https://github.com/elliotnunn/supermario/blob/master/base/SuperMarioProj.1994-02-09)
 * __Miscelaneous Things__
   * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
