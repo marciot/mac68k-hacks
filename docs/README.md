@@ -33,6 +33,8 @@ Interesting development resources I have found on the web:
   * [Dissassembled Mac Plus ROM]
   * [68020 Cache Control]
   * [Retronik 68000 Resources](https://marc.retronik.fr/motorola/68K/68000.html)
+  * [68000 Opcode Chart](http://goldencrystal.free.fr/M68kOpcodes-v2.3.pdf)
+  * [68000 Disassembler In Python](https://github.com/jefftranter/68000/tree/master/toolchain/disasm)
 * __Apple Technical Notes Archives___
   * [Apple Technical Notes Archive]
   * [Technical Notes Stack 4.0.5]
