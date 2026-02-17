@@ -6,6 +6,7 @@ Here are some of my Macintosh projects:
 * [Trouble in Paradise] - A port of GRC's "TIP: Zip & Jaz Drive and Cartridge Testing System" for 68k and PowerPC Macintosh systems.
 * [ScreenChooser] - A dynamic background changer for vintage Macintoshes.
 * [Retroweb Vintage Computer Museum] - A web-based museum of vintage computers, including the Macintosh.
+* [MiniVNC] - A MacTCP based VNC server that works on classic Macs or the Apple Lisa
 
 Resources
 =========
@@ -72,11 +73,13 @@ Interesting development resources I have found on the web:
 * __Reverse Engineering__
   * [AI Based Reverse Engineering of System 7](https://github.com/Kelsidavis/System7)
   * [M.A.C.E](https://mace.home.blog/)
-* __ROM_Resources__
+* __ROM Resources__
   * [supermario](https://github.com/elliotnunn/supermario/blob/master/base/SuperMarioProj.1994-02-09)
 * __Miscelaneous Things__
   * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
+* __Hardware Hacking__
+  * Mouse Alternatives: [Universal Mouse], [Optical Mac Plus Mouse]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -87,6 +90,7 @@ Interesting development resources I have found on the web:
 [Trouble in Paradise]: https://github.com/marciot/mac-tip
 [ScreenChooser]: https://archive.org/details/screen-chooser
 [Retroweb Vintage Computer Museum]: http://retroweb.maclab.org
+[MiniVNC]: https://github.com/marciot/mac-minivnc
 [Thomas Tempelmann]: http://www.tempel.org/macdev/index.html
 [Joshua Stein]: https://jcs.org/
 [Apple Developer Resources Mirror]: https://staticky.com/mirrors/ftp.apple.com/developer/
@@ -119,4 +123,6 @@ Interesting development resources I have found on the web:
 [Efficient 68000 Programming]: http://preserve.mactech.com/articles/mactech/Vol.08/08.02/Efficient68000/index.html
 [Motorola 68030 microprocessor family]: https://www.cpu-world.com/CPUs/68030/index.html
 [Bit Twiddling Hacks]: https://graphics.stanford.edu/~seander/bithacks.html
-[Guided Tour](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2011/8/31_Guided_Tour_of_Macintosh.html)
+[Guided Tour]: http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2011/8/31_Guided_Tour_of_Macintosh.html
+[Universal Mouse]: https://oldcomputer.info/hacks/mouse/index.htm
+[Optical Mac Plus Mouse]: https://www.8bitstuff.com/product/3d-printed-apple-m0100-mouse-recreation
