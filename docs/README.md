@@ -88,8 +88,10 @@ Interesting development resources I have found on the web:
   * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
   * Hiding the MenuBar:
-     * Pararena 2: [HideMenuBar], [FixVisRegion](https://raw.githubusercontent.com/historicalsource/pararena_2/08c83ddb59ee6bf52d8cff713d73f7926f35728c/Sources/MainWindow.c)
-
+     * Pararena 2: [HideMenuBar], [FixVisRegion]
+     * Others: [fullscreen.cp], [hidembar.h], [democrash.c], [HideMenuBar.c], [HC_HideMenuBar.c], [VideoTools.c]
+  * Painting Windows Black:
+     * PaintWhite: [ScreenSaver.p], [Globe.p]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -145,3 +147,10 @@ Interesting development resources I have found on the web:
 [Sony Driver]: https://discmaster.textfiles.com/browse/17908/207.182.244.42.tar/207.182.244.42/pub/www.anotherworld.eu.org/Anonymous_FTP/Lost_SoftWare/Operating_System/MacOs/Betas_And_Sources/System%207.1%20source%20code.sit/System%207.1/Drivers/Sony
 [HideMenuBar]: https://raw.githubusercontent.com/historicalsource/pararena_2/08c83ddb59ee6bf52d8cff713d73f7926f35728c/Sources/UnivUtilities.c
 [FixVisRegion]: https://raw.githubusercontent.com/historicalsource/pararena_2/08c83ddb59ee6bf52d8cff713d73f7926f35728c/Sources/MainWindow.c
+[fullscreen.cp]: https://discmaster.textfiles.com/view/11869/www.umich.edu.archive.2014.03.zip/www.umich.edu/~archive/mac/development/libraries/dotsandpixels.sit.hqx/Dots%20&%20Pixels/sources/fullscreen.cp
+[Globe.p]: https://discmaster.textfiles.com/view/13264/Gigarom%20Macintosh%20Archives%20(Quantum%20Leap)(CDRM1080320)(1993).iso/FILES/DEM/D-H/Globes/Globes/Globe.p/Globe.p
+[hidembar.h]: https://discmaster.textfiles.com/view/14144/MacHack%201997.toast/Hacks/Hacks%20%E2%80%9997/Whack-A-Bill/source%20code/hidembar.h
+[democrash.c]: https://discmaster.textfiles.com/view/6516/Apprentice-Release4.iso/Source%20Code/C/Applications/MSG%20Demo%201.4.1/MSG%20Demo%20%C6%92/Demo%20%C6%92/demo%20crash.c
+[HideMenuBar.c]: https://discmaster.textfiles.com/view/14141/MacHack%201994.toast/MacHack%E2%84%A294/Hacks/[%E2%88%9A]%20May%20be%20freely%20distributed/Craig%20Marchiniak/SushiPlot/SushiPlot%20Source/HideMenuBar.c
+[HC_HideMenuBar.c]: https://discmaster.textfiles.com/view/12812/aol-file-protocol-4400-2801-to-2900.zip/AOLDLs/C++%20Files%20Library/HyperCuber%20Source/HyperCuber%202.0%20Source.sit/HyperCuber%202.0%20Source/HideMenuBar.c
+[VideoTools.c]: https://discmaster.textfiles.com/view/32033/MW_UK_1996_04.iso/Shareware%20World/Utilities/Education/Science/Matt's_Fract%201.05/Sources/includes/VideoTools.c
