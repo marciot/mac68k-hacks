@@ -109,7 +109,7 @@ Interesting development resources I have found on the web:
 [ChromiVNC Wayback Machine 1]: https://web.archive.org/web/20070209043056/http://www.chromatix.uklinux.net/vnc/
 [ChromiVNC Wayback Machine 2]: https://web.archive.org/web/20070208223046/http://www.chromatix.uklinux.net/vnc/index.html
 [ChromiVNC]: https://www.macintoshrepository.org/33305-chromivnc
-[ChromiVNC vncPatches64k]: https://www.macintoshrepository.org/download.php?id=35953&form=1&d=9LwUtYX8tMWxbJF8eH%2FJp57BM7xlZunlQfeOz4MB2yqa8gU%2F6L%2BDhXGGCbglE6iR8pahmj1BlETvgrD2goQ8OQ%3D%3D
+[ChromiVNC vncPatches64k]: https://macintoshgarden.org/apps/vncpatches68k
 [Assembly Language Tricks and Traps]: https://web.archive.org/web/20231221004614/http://www.easy68k.com/paulrsm/doc/trick68k.htm
 [Mac 68000 Assembly Tutorial]: https://macgui.com/news/article.php?t=483
 [Mac 512k Blog]: https://macgui.com/news/showcat.php?id=8
