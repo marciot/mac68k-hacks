@@ -7,24 +7,28 @@ Here are some of my Macintosh projects:
 * [ScreenChooser] - A dynamic background changer for vintage Macintoshes.
 * [Retroweb Vintage Computer Museum] - A web-based museum of vintage computers, including the Macintosh.
 * [MiniVNC] - A MacTCP based VNC server that works on classic Macs or the Apple Lisa
+* [MacLumon] - A Simulation of Macrodata Refinement for Classic Macs
 
 Resources
 =========
 
 Interesting development resources I have found on the web:
 
-* __Vintage Macintosh Programming Pages__
+* __Vintage Macintosh Pages__
   * [Mac 512k Blog] A very comprehensive and well written blog on the the Macintosh 512k, including posts on a variety of information and in-depth articles on assembly language programming.
   * [Joshua Stein]'s blog, which includes a fantastic series of videos on System 6 software development.
   * [MacFlim] an amazing video player for classic Macs!
   * [Marchintosh], a whole month of Macintosh retrocomputing projects!
+  * [MacPaint Blog], a nice collection of MacPaint images!
 * __Reference Materials__
   * [Macintosh Almanac]
   * [Vintage Computing Wiki]
   * [The Vintage Technology Digital Archive]
+  * [Search Old CD-ROMs](https://discmaster.textfiles.com)
 * __Hardware Hacks__
   * [Macintosh Plus Hardware Info]
-  * [ADB to Mac Plus Mouse Conversion](http://www.marushin-web.com/512kplus_2.html#ADBPlus) 
+  * [ADB to Mac Plus Mouse Conversion](http://www.marushin-web.com/512kplus_2.html#ADBPlus)
+  * Mouse Alternatives: [Universal Mouse], [Optical Mac Plus Mouse]
 * __General Programming Tricks__
   * [Bit Twiddling Hacks]
 * __Assembly Language Programming__
@@ -39,10 +43,12 @@ Interesting development resources I have found on the web:
 * __Apple Technical Notes Archives___
   * [Apple Technical Notes Archive]
   * [Technical Notes Stack 4.0.5]
-  * [Recommend Developer Publications]
+  * [Recommend Developer Publications] 
   * __Selected Topics__
     * [Cursor Control], [Disabling Interrupts], [Interrupt Safe Routines], [Writing a SCSI Driver], [Interrupts in need of (a Good) Time], [The Monster Disk Driver Tech Note]
 * [Apple Developer Resources Mirror] Tons of resources formerly available via the Apple FTP site
+* __MacTCP__
+  * [MacTCP LAP Tech Note], Building Alternative Link Access Protocol Modules for MacTCP
 * __Mirror of UMICH resources__: An archive of many Macintosh things, including development sources
   * [web.archive.org](https://web.archive.org/web/20211029121738/http://websites.umich.edu/~archive/mac)
      * For links which are not available, please consider clicking the "Save this url in the Wayback Machine"
@@ -56,6 +62,8 @@ Interesting development resources I have found on the web:
   * [ChromiVNC] An Open-Transport based VNC server for Macs. Includes source code, illustrating things like patching traps and posting keyboard and mouse events.
   * [Thomas Tempelmann]'s Macintosh developer site.
   * [CDEV Framework for Code Warrior] A few CDEV projects with very good documentation
+  * ScreenSavers: [BasicBlack.c], [ScreenSaver.p]
+  * Threads: [ThreadLib]
 * __VNC Programs for Mac__
   * [ChromiVNC] [ChromiVNC Wayback Machine 1] [ChromiVNC Wayback Machine 2] [ChromiVNC vncPatches64k]
 * __Guided Tour Information__
@@ -75,11 +83,13 @@ Interesting development resources I have found on the web:
   * [M.A.C.E](https://mace.home.blog/)
 * __ROM Resources__
   * [supermario](https://github.com/elliotnunn/supermario/blob/master/base/SuperMarioProj.1994-02-09)
+  * [Sony Driver]
 * __Miscelaneous Things__
   * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
-* __Hardware Hacking__
-  * Mouse Alternatives: [Universal Mouse], [Optical Mac Plus Mouse]
+  * Hiding the MenuBar:
+     * Pararena 2: [HideMenuBar], [FixVisRegion](https://raw.githubusercontent.com/historicalsource/pararena_2/08c83ddb59ee6bf52d8cff713d73f7926f35728c/Sources/MainWindow.c)
+
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -88,6 +98,7 @@ Interesting development resources I have found on the web:
 [DitherPunk]: https://surma.dev/things/ditherpunk/
 [Patching Apple HD Setup]: http://www.euronet.nl/users/ernstoud/drvsetup.html
 [Trouble in Paradise]: https://github.com/marciot/mac-tip
+[MacLumon]: https://github.com/marciot/MacLumon
 [ScreenChooser]: https://archive.org/details/screen-chooser
 [Retroweb Vintage Computer Museum]: http://retroweb.maclab.org
 [MiniVNC]: https://github.com/marciot/mac-minivnc
@@ -126,3 +137,11 @@ Interesting development resources I have found on the web:
 [Guided Tour]: http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2011/8/31_Guided_Tour_of_Macintosh.html
 [Universal Mouse]: https://oldcomputer.info/hacks/mouse/index.htm
 [Optical Mac Plus Mouse]: https://www.8bitstuff.com/product/3d-printed-apple-m0100-mouse-recreation
+[BasicBlack.c]: http://discmaster.textfiles.com/view/6281/BMUG%20PD-ROM%20Version%20BV3%20(CDRM1097900).iso/Utilities/Screen%20Savers/Basic%20Black/Source/Basic%20Black.c
+[ScreenSaver.p]: https://discmaster.textfiles.com/view/31870/bincue/Desperately%20Seeking%20Seven.bin/Tools%20&%20Apps%20(Moof!)/Networking%20&%20Communications/The%20NetWork%20Project/Examples%20(Sources)/ScreenSaver.p
+[MacPaint Blog]: https://blog.decryption.net.au/posts/macpaint.html
+[MacTCP LAP Tech Note]: https://discmaster.textfiles.com/file/31892/Apple%20Developer%20CD%20Series%20Tool%20Chest%20February%201996%20(Apple%20Computer)(1996).iso/Tool%20Chest/Networking/MacTCP/MacTCP%20Developer%20Tools/MacTCP%20LAP%20Tech%20Note/MacTCP%20LAP%20Tech%20Note.pdf?contentType=application/pdf
+[ThreadLib]: https://macintoshgarden.org/apps/threadlib
+[Sony Driver]: https://discmaster.textfiles.com/browse/17908/207.182.244.42.tar/207.182.244.42/pub/www.anotherworld.eu.org/Anonymous_FTP/Lost_SoftWare/Operating_System/MacOs/Betas_And_Sources/System%207.1%20source%20code.sit/System%207.1/Drivers/Sony
+[HideMenuBar]: https://raw.githubusercontent.com/historicalsource/pararena_2/08c83ddb59ee6bf52d8cff713d73f7926f35728c/Sources/UnivUtilities.c
+[FixVisRegion]: https://raw.githubusercontent.com/historicalsource/pararena_2/08c83ddb59ee6bf52d8cff713d73f7926f35728c/Sources/MainWindow.c
