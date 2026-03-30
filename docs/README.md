@@ -75,7 +75,7 @@ Interesting development resources I have found on the web:
   * [Retroweb Vintage Computer Museum] My own JavaScript museum of vintage computers
   * [PCE Emulator] A lesser known, but well-written open source Macintosh Plus emulator
   * [Patching Apple HD Setup]: How to patch Apple HD Setup using ResEdit
-*__Type/Creator Database__
+* __Type/Creator Database__
   * [macobserver.com](https://www.macobserver.com/columns/macgadget/00/20000522.shtml)
   * [tcdb.tripod.com](https://web.archive.org/web/20000604013815/http://tcdb.tripod.com/)
 * __Reverse Engineering__
