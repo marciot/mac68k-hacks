@@ -92,6 +92,7 @@ Interesting development resources I have found on the web:
      * Others: [fullscreen.cp], [hidembar.h], [democrash.c], [HideMenuBar.c], [HC_HideMenuBar.c], [VideoTools.c]
   * Painting Windows Black:
      * PaintWhite: [ScreenSaver.p], [Globe.p]
+  * Compression: [deflate.s]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -154,3 +155,4 @@ Interesting development resources I have found on the web:
 [HideMenuBar.c]: https://discmaster.textfiles.com/view/14141/MacHack%201994.toast/MacHack%E2%84%A294/Hacks/[%E2%88%9A]%20May%20be%20freely%20distributed/Craig%20Marchiniak/SushiPlot/SushiPlot%20Source/HideMenuBar.c
 [HC_HideMenuBar.c]: https://discmaster.textfiles.com/view/12812/aol-file-protocol-4400-2801-to-2900.zip/AOLDLs/C++%20Files%20Library/HyperCuber%20Source/HyperCuber%202.0%20Source.sit/HyperCuber%202.0%20Source/HideMenuBar.c
 [VideoTools.c]: https://discmaster.textfiles.com/view/32033/MW_UK_1996_04.iso/Shareware%20World/Utilities/Education/Science/Matt's_Fract%201.05/Sources/includes/VideoTools.c
+[deflate.s]: https://discmaster.textfiles.com/view/29594/infozip.zip/infozip/src/zip30.tgz/zip30.tar/zip30/human68k/deflate.s
