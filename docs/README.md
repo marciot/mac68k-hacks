@@ -93,6 +93,7 @@ Interesting development resources I have found on the web:
   * Painting Windows Black:
      * PaintWhite: [ScreenSaver.p], [Globe.p]
   * Compression: [deflate.s]
+  * Writing Mac128/512 Apps: 
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -156,3 +157,4 @@ Interesting development resources I have found on the web:
 [HC_HideMenuBar.c]: https://discmaster.textfiles.com/view/12812/aol-file-protocol-4400-2801-to-2900.zip/AOLDLs/C++%20Files%20Library/HyperCuber%20Source/HyperCuber%202.0%20Source.sit/HyperCuber%202.0%20Source/HideMenuBar.c
 [VideoTools.c]: https://discmaster.textfiles.com/view/32033/MW_UK_1996_04.iso/Shareware%20World/Utilities/Education/Science/Matt's_Fract%201.05/Sources/includes/VideoTools.c
 [deflate.s]: https://discmaster.textfiles.com/view/29594/infozip.zip/infozip/src/zip30.tgz/zip30.tar/zip30/human68k/deflate.s
+[Writing 64k ROM Apps]: https://68kmla.org/bb/threads/writing-an-application-that-runs-in-mac-os-system-1-using-codewarrior-gold-11.47511
