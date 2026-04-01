@@ -93,7 +93,7 @@ Interesting development resources I have found on the web:
   * Painting Windows Black:
      * PaintWhite: [ScreenSaver.p], [Globe.p]
   * Compression: [deflate.s]
-  * Writing Mac128/512 Apps: 
+  * Writing Mac128/512 Apps: [Writing 64k ROM Apps]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
