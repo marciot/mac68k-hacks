@@ -94,6 +94,7 @@ Interesting development resources I have found on the web:
      * PaintWhite: [ScreenSaver.p], [Globe.p]
   * Compression: [deflate.s]
   * Writing Mac128/512 Apps: [Writing 64k ROM Apps]
+  * Vector Normalization: [Fast Inverse Square Root], [Pseudo-Normalization]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -158,3 +159,6 @@ Interesting development resources I have found on the web:
 [VideoTools.c]: https://discmaster.textfiles.com/view/32033/MW_UK_1996_04.iso/Shareware%20World/Utilities/Education/Science/Matt's_Fract%201.05/Sources/includes/VideoTools.c
 [deflate.s]: https://discmaster.textfiles.com/view/29594/infozip.zip/infozip/src/zip30.tgz/zip30.tar/zip30/human68k/deflate.s
 [Writing 64k ROM Apps]: https://68kmla.org/bb/threads/writing-an-application-that-runs-in-mac-os-system-1-using-codewarrior-gold-11.47511
+[Pseudo-Normalization]: https://www.mdpi.com/2079-9292/13/15/2955
+[Fast Inverse Square Root]: https://www.cstheory.org/meetings/sp24/fisr/slides.pdf
+[Pseudo-Normalization]: https://www.mdpi.com/2079-9292/13/15/2955
