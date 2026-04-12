@@ -95,6 +95,7 @@ Interesting development resources I have found on the web:
   * Compression: [deflate.s], [StuffIt Archives], [StuffIt Rust], [StuffIt Arsenic], [Raymond Lau]
   * Writing Mac128/512 Apps: [Writing 64k ROM Apps]
   * Vector Normalization: [Fast Inverse Square Root], [Pseudo-Normalization]
+  * GIF Format: [gifenc], [lomemgif], [gif87], [gif89a], [LCRS]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -166,3 +167,8 @@ Interesting development resources I have found on the web:
 [StuffIt Rust]: https://github.com/benletchford/stuffit-rs
 [StuffIt Arsenic]: https://web.archive.org/web/20260209154106/http://www.russotto.net/arseniccomp.html
 [Raymond Lau]: https://web.archive.org/web/20050210104028/http://www.raylau.com/StuffIt.html
+[gifenc]: https://github.com/lecram/gifenc
+[gif87]: https://www.w3.org/Graphics/GIF/spec-gif87.txt
+[gif89a]: https://www.w3.org/Graphics/GIF/spec-gif89a.txt
+[lomemgif]: https://bitbanksoftware.blogspot.com/2020/07/a-low-memory-gif-decoder.html?m=1
+[lcrs]: https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree
