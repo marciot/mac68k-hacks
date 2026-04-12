@@ -92,7 +92,7 @@ Interesting development resources I have found on the web:
      * Others: [fullscreen.cp], [hidembar.h], [democrash.c], [HideMenuBar.c], [HC_HideMenuBar.c], [VideoTools.c]
   * Painting Windows Black:
      * PaintWhite: [ScreenSaver.p], [Globe.p]
-  * Compression: [deflate.s]
+  * Compression: [deflate.s], [StuffIt Archives], [StuffIt Rust]
   * Writing Mac128/512 Apps: [Writing 64k ROM Apps]
   * Vector Normalization: [Fast Inverse Square Root], [Pseudo-Normalization]
 
@@ -162,3 +162,5 @@ Interesting development resources I have found on the web:
 [Pseudo-Normalization]: https://www.mdpi.com/2079-9292/13/15/2955
 [Fast Inverse Square Root]: https://www.cstheory.org/meetings/sp24/fisr/slides.pdf
 [Pseudo-Normalization]: https://www.mdpi.com/2079-9292/13/15/2955
+[StuffIt Archives]: http://linuxmafia.com/faq/Apps/stuffit-archives.html
+[StuffIt Rust]: https://github.com/benletchford/stuffit-rs
