@@ -96,6 +96,7 @@ Interesting development resources I have found on the web:
   * Writing Mac128/512 Apps: [Writing 64k ROM Apps]
   * Vector Normalization: [Fast Inverse Square Root], [Pseudo-Normalization]
   * GIF Format: [gifenc], [lomemgif], [gif87], [gif89a], [LCRS]
+  * Early Web: [Netscape 2.0 JavaScript], [Netscape 3.0 Handbook], [JavaScript for Netscape 2.0], [JavaScript: The First 20 Years]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -172,3 +173,7 @@ Interesting development resources I have found on the web:
 [gif89a]: https://www.w3.org/Graphics/GIF/spec-gif89a.txt
 [lomemgif]: https://bitbanksoftware.blogspot.com/2020/07/a-low-memory-gif-decoder.html?m=1
 [lcrs]: https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree
+[JavaScript for Netscape 2.0]: https://archive.org/details/programmingjavas00ritc/mode/1up
+[JavaScript: The First 20 Years]: https://www.wirfs-brock.com/allen/jshopl.pdf
+[Netscape 2.0 JavaScript]: https://web.archive.org/web/19970618011030fw_/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/
+[Netscape 3.0 Handbook]: http://home.netscape.com/eng/mozilla/3.0/handbook/index.html
