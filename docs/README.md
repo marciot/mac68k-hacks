@@ -97,6 +97,7 @@ Interesting development resources I have found on the web:
   * Vector Normalization: [Fast Inverse Square Root], [Pseudo-Normalization]
   * GIF Format: [gifenc], [lomemgif], [gif87], [gif89a], [LCRS]
   * Early Web: [Netscape 2.0 JavaScript], [Netscape 3.0 Handbook], [JavaScript for Netscape 2.0], [JavaScript: The First 20 Years]
+  * HyperCard: [HyperCard Stack Format], [Decker]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -177,3 +178,5 @@ Interesting development resources I have found on the web:
 [JavaScript: The First 20 Years]: https://www.wirfs-brock.com/allen/jshopl.pdf
 [Netscape 2.0 JavaScript]: https://web.archive.org/web/19970618011030fw_/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/
 [Netscape 3.0 Handbook]: http://home.netscape.com/eng/mozilla/3.0/handbook/index.html
+[HyperCard Stack Format]: https://www.creysoft.com/xtalk/
+[Decker]: https://beyondloom.com/decker/
