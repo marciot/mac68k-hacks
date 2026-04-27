@@ -85,7 +85,8 @@ Interesting development resources I have found on the web:
   * [supermario](https://github.com/elliotnunn/supermario/blob/master/base/SuperMarioProj.1994-02-09)
   * [Sony Driver]
 * __Miscelaneous Things__
-  * Dithering: [Atkinson Dithering], [DitherPunk], [ObraDin], [Halftone]
+  * Hilbert Curves: [Non-Square Hilbert Curve], [gilbert], [lutanho]
+  * Dithering: [Atkinson Dithering], [riemersma], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
   * Hiding the MenuBar:
      * Pararena 2: [HideMenuBar], [FixVisRegion]
@@ -98,6 +99,7 @@ Interesting development resources I have found on the web:
   * GIF Format: [gifenc], [lomemgif], [gif87], [gif89a], [LCRS]
   * Early Web: [Netscape 2.0 JavaScript], [Netscape 3.0 Handbook], [JavaScript for Netscape 2.0], [JavaScript: The First 20 Years]
   * HyperCard: [HyperCard Stack Format], [Decker]
+  * Text Encodings: [te-macintosh]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -180,3 +182,8 @@ Interesting development resources I have found on the web:
 [Netscape 3.0 Handbook]: http://home.netscape.com/eng/mozilla/3.0/handbook/index.html
 [HyperCard Stack Format]: https://www.creysoft.com/xtalk/
 [Decker]: https://beyondloom.com/decker/
+[Non-Square Hilbert Curve]: https://stackoverflow.com/questions/33058327/hilbert-space-filling-curve-for-non-square-arbitrary-proportions
+[gilbert]: https://github.com/jakubcerveny/gilbert
+[lutanho]: https://lutanho.net/pic2html/draw_sfc.html
+[riemersma]: https://www.compuphase.com/riemer.htm
+[te-macintosh]: https://encoding.spec.whatwg.org/#macintosh
