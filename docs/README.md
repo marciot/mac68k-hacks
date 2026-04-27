@@ -85,6 +85,7 @@ Interesting development resources I have found on the web:
   * [supermario](https://github.com/elliotnunn/supermario/blob/master/base/SuperMarioProj.1994-02-09)
   * [Sony Driver]
 * __Miscelaneous Things__
+  * Color Cycling: [color-cycling] 
   * Hilbert Curves: [Non-Square Hilbert Curve], [gilbert], [lutanho]
   * Dithering: [Atkinson Dithering], [riemersma], [DitherPunk], [ObraDin], [Halftone]
   * 8088 Domination: [Part 1](https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/), [Part 2](https://trixter.oldskool.org/2014/06/20/8088-domination-post-mortem-conclusion/)
@@ -187,3 +188,4 @@ Interesting development resources I have found on the web:
 [lutanho]: https://lutanho.net/pic2html/draw_sfc.html
 [riemersma]: https://www.compuphase.com/riemer.htm
 [te-macintosh]: https://encoding.spec.whatwg.org/#macintosh
+[color-cycling]: http://www.effectgames.com/effect/article-Old_School_Color_Cycling_with_HTML5.html
