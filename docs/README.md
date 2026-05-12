@@ -31,6 +31,7 @@ Interesting development resources I have found on the web:
   * Mouse Alternatives: [Universal Mouse], [Optical Mac Plus Mouse]
 * __General Programming Tricks__
   * [Bit Twiddling Hacks]
+  * [Michael Abrash's Graphics Programming Black Book Special Edition]
 * __Assembly Language Programming__
   * [Assembly Language Tricks and Traps] Information of writing assembly code for the 68000
   * [Efficient 68000 Programming]
@@ -85,6 +86,7 @@ Interesting development resources I have found on the web:
   * [supermario](https://github.com/elliotnunn/supermario/blob/master/base/SuperMarioProj.1994-02-09)
   * [Sony Driver]
 * __Miscelaneous Things__
+  * Line Drawing: [Run-Length Slice Line Drawing]
   * Color Cycling: [color-cycling] 
   * Hilbert Curves: [Non-Square Hilbert Curve], [gilbert], [lutanho]
   * Dithering: [Atkinson Dithering], [riemersma], [DitherPunk], [ObraDin], [Halftone]
@@ -189,3 +191,5 @@ Interesting development resources I have found on the web:
 [riemersma]: https://www.compuphase.com/riemer.htm
 [te-macintosh]: https://encoding.spec.whatwg.org/#macintosh
 [color-cycling]: http://www.effectgames.com/effect/article-Old_School_Color_Cycling_with_HTML5.html
+[Run-Length Slice Line Drawing]: https://www.phatcode.net/res/224/files/html/ch36/36-01.html
+[Michael Abrash's Graphics Programming Black Book Special Edition]: https://www.phatcode.net/res/224/files/html/index.html
