@@ -100,9 +100,11 @@ Interesting development resources I have found on the web:
   * Writing Mac128/512 Apps: [Writing 64k ROM Apps]
   * Vector Normalization: [Fast Inverse Square Root], [Pseudo-Normalization]
   * GIF Format: [gifenc], [lomemgif], [gif87], [gif89a], [LCRS]
+  * PNG Format: [pngout], [pngspecs]
   * Early Web: [Netscape 2.0 JavaScript], [Netscape 3.0 Handbook], [JavaScript for Netscape 2.0], [JavaScript: The First 20 Years]
   * HyperCard: [HyperCard Stack Format], [Decker]
   * Text Encodings: [te-macintosh]
+  * Desktop Database: [TIL07828], [DTDBSecrets], [Desktop DB Diver]
 
 [The Vintage Technology Digital Archive]:https://vtda.org/
 [Halftone]: https://tabreturn.github.io/code/processing/python/2019/02/09/processing.py_in_ten_lessons-6.3-_halftones.html
@@ -193,3 +195,8 @@ Interesting development resources I have found on the web:
 [color-cycling]: http://www.effectgames.com/effect/article-Old_School_Color_Cycling_with_HTML5.html
 [Run-Length Slice Line Drawing]: https://www.phatcode.net/res/224/files/html/ch36/36-01.html
 [Michael Abrash's Graphics Programming Black Book Special Edition]: https://www.phatcode.net/res/224/files/html/index.html
+[pngout]: https://github.com/jamesbowman/pngout
+[pngspecs]: https://www.libpng.org/pub/png/spec/1.2/PNG-Contents.html
+[TIL07828]: https://ia600901.us.archive.org/view_archive.php?archive=/10/items/APPLE_TIL_ARTICLES/TIL00001_to_TIL60496.zip&file=TIL07828-Macintosh-Meaning_of_the_Desktop_DB_and_Desktop_DF_Files_7-95_%28TA46427%29.pdf
+[DTDBSecrets]: https://www.tempel.org/macdev/dtdb_secrets.html
+[Desktop DB Diver]: https://www.tempel.org/macdev/index.html#DTDBDiver
